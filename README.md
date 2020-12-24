@@ -42,29 +42,7 @@ To adjust the sound alarm with the amount of gas leak we have to use analog read
 I learned how to use the gas sensors and how to work efficiently by using them in the project. Now, I can say that I have practical experience in working with the gas sensors. I also learned that there are wide range gas sensors available and for every gas there is a sensor to detect it. The main issue with gas sensors is that they can only detect a particular type of gas but they cannot distinguish or determine which gas they have been detected. If we have gas sensor which detects LPG, natural gas and propane. If the sensor encounters one of these gases, then the sensor will give an alert message saying that it detected one of the three gases, but it cannot say which gas it has been detected. So, if we really want to know which gas has been leaking or which gas has been found then we need to have separate sensors for separate gases.
 
 
-Below you will find a table where you can find different types of gas sensors which are used to detect different gases and sometimes different combinations of gases.
 
- List of Gas Sensors and What Gases They Sense 
-Sensor Name	Gas to measure
-MQ-2   Methane, Butane, LPG, Smoke
-MQ-3	 Alcohol, Ethanol, Smoke
-MQ-4   Methane, CNG Gas
-MQ-5	 Natural gas, LPG
-MQ-6   LPG, butane
-MQ-7	 Carbon Monoxide
-MQ-8	 Hydrogen Gas
-MQ-9	 Carbon Monoxide, flammable gasses
-MQ131	 Ozone
-MQ135  Air Quality
-MQ136	 Hydrogen Sulfide gas
-MQ137  Ammonia
-MQ138	 Benzene, Toluene, Alcohol, Propane, Formaldehyde gas, Hydrogen
-MQ214	 Methane, Natural Gas
-MQ216	 Natural gas, Coal Gas
-MQ303A	Alcohol, Ethanol, smoke
-MQ306A	LPG, butane
-MQ307A	Carbon Monoxide
-MQ309A	Carbon Monoxide, flammable gas
 
 I learned that we had to use the objects which are in our surroundings to complete the project successfully on our own. As I have mentioned already about it in the above section of unexpected challenges in the project report. I faced some difficulties in testing the project because we have to have a gas leak in order to test it and we need to create an artificial gas leak to test the project but after I have seen the components of natural gas in the internet and there is carbon monoxide as one of the major components of the natural gas. In our day to day life we find carbon monoxide gas everywhere. For example, like clothes dryers, water heaters, furnaces or boilers, fireplaces, both gas and wood burnings, gas stoves, ovens, motor vehicles, grills, generators, power tools, lawn equipment etc. I also found out that the incense sticks we use release a trace amounts of carbon monoxide, then I have decided to use the incense sticks which release carbon monoxide in trace amounts. I used these sticks because not only they are safe but also they release only trace amounts of carbon monoxide, so, if the sensor detects these trace amounts of carbon monoxide then the system can easily detects the natural gas leakage if it occurs.  
 By this I learned how should we solve our problems and how to find new methods to solve the problems. To complete any project, the problem-solving skills are as important and necessary as programming skills.
